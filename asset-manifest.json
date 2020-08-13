@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react_tesla_range_calculator/static/css/main.c8eba651.chunk.css",
+    "main.js": "/react_tesla_range_calculator/static/js/main.e54cf8be.chunk.js",
+    "main.js.map": "/react_tesla_range_calculator/static/js/main.e54cf8be.chunk.js.map",
+    "runtime-main.js": "/react_tesla_range_calculator/static/js/runtime-main.5651dddf.js",
+    "runtime-main.js.map": "/react_tesla_range_calculator/static/js/runtime-main.5651dddf.js.map",
+    "static/js/2.a75332df.chunk.js": "/react_tesla_range_calculator/static/js/2.a75332df.chunk.js",
+    "static/js/2.a75332df.chunk.js.map": "/react_tesla_range_calculator/static/js/2.a75332df.chunk.js.map",
+    "index.html": "/react_tesla_range_calculator/index.html",
+    "precache-manifest.12f701ce0fb046648e791c7ebd34b485.js": "/react_tesla_range_calculator/precache-manifest.12f701ce0fb046648e791c7ebd34b485.js",
+    "service-worker.js": "/react_tesla_range_calculator/service-worker.js",
+    "static/css/main.c8eba651.chunk.css.map": "/react_tesla_range_calculator/static/css/main.c8eba651.chunk.css.map",
+    "static/js/2.a75332df.chunk.js.LICENSE.txt": "/react_tesla_range_calculator/static/js/2.a75332df.chunk.js.LICENSE.txt",
+    "static/media/TeslaWheels.css": "/react_tesla_range_calculator/static/media/21.a52693ae.svg",
+    "static/media/TeslaStats.css": "/react_tesla_range_calculator/static/media/p100d.62ed87b4.svg",
+    "static/media/index.css": "/react_tesla_range_calculator/static/media/Roboto-Regular-webfont.da61d7ef.svg",
+    "static/media/TeslaClimate.css": "/react_tesla_range_calculator/static/media/heat-on.2c61b1a6.svg",
+    "static/media/TeslaCounter.css": "/react_tesla_range_calculator/static/media/up.b3fc73bf.svg",
+    "static/media/logo.svg": "/react_tesla_range_calculator/static/media/logo.99c8f204.svg",
+    "static/media/TeslaCar.css": "/react_tesla_range_calculator/static/media/wheel-21.e787dc92.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5651dddf.js",
+    "static/js/2.a75332df.chunk.js",
+    "static/css/main.c8eba651.chunk.css",
+    "static/js/main.e54cf8be.chunk.js"
+  ]
+}
